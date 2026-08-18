@@ -1,55 +1,33 @@
 # Jasveen Klair
 
-I am an experienced data and business intelligence professional building a practical analytics portfolio as I return to data analysis work.
+I am an experienced data and business intelligence professional returning to hands-on data analysis work.
 
-My portfolio focuses on realistic business questions, clear data preparation, SQL analysis, Python exploration, Excel review workbooks, Power BI dashboards and stakeholder-friendly recommendations.
+I am building a portfolio around realistic business questions, with an emphasis on sound data preparation, SQL and Python analysis, appropriate use of statistics and clear recommendations for decision-makers.
 
 ## Portfolio projects
 
+### Project 02: Checkout Conversion Experiment
+
+A synthetic A/B test of a redesigned e-commerce checkout, built around the decision of whether the new experience should be rolled out.
+
+The project uses relational event and order data, SQL validation and user-level metric construction, followed by statistical analysis in Python. The treatment increased checkout conversion from 59.90% to 61.32% and revenue per checkout user from £46.65 to £48.89. The final recommendation was to roll out the redesign while continuing to monitor the technical payment-error guardrail.
+
+**Tools:** SQL, SQLite, Python, pandas, NumPy, SciPy, Matplotlib, Git and GitHub
+
+[Repository](https://github.com/jsklair/project_02_checkout_ab_test_analysis) | [Published analysis](https://jsklair.github.io/project_02_checkout_ab_test_analysis/)
+
 ### Project 01: First-Time Buyer Affordability Pressure by Area
 
-A full end-to-end analysis of housing affordability across England and Wales, using official ONS data.
+An end-to-end analysis of housing affordability across England and Wales using official ONS data.
 
-The project examines lower-quartile house price to lower-quartile workplace-based earnings ratios as a practical proxy for first-time buyer affordability pressure.
+The analysis uses lower-quartile house prices and workplace-based earnings to compare affordability pressure by area. It includes data preparation, SQL analysis, Python exploration, an Excel review workbook and a Power BI dashboard.
 
-Tools used:
+**Tools:** SQL, Python, Excel, Power BI, Git and GitHub
 
-* SQL
-* Python
-* Excel
-* Power BI
-* GitHub Pages
-
-Main outputs:
-
-* Cleaned area-year dataset
-* SQL quality checks and analysis
-* Python exploratory analysis
-* Excel review workbook
-* Power BI dashboard
-* Written recommendations and caveats
-
-Project repository:
-https://github.com/jsklair/project_01_uk_house_price_analysis
-
-Project page:
-https://jsklair.github.io/project_01_uk_house_price_analysis/
-
-## Skills demonstrated
-
-* Problem translation and analytical framing
-* Data collection and source documentation
-* Data cleaning and preparation
-* SQL querying and quality checks
-* Python exploratory analysis
-* Excel review and validation
-* Power BI dashboard development
-* Business analysis and recommendations
-* Data storytelling and communication
-* Data scepticism, caveats and limitations
+[Repository](https://github.com/jsklair/project_01_uk_house_price_analysis) | [Published analysis](https://jsklair.github.io/project_01_uk_house_price_analysis/)
 
 ## Current focus
 
-I am building a sequence of portfolio projects to demonstrate practical data analyst skills across SQL, Python, Excel and Power BI.
+The first two projects now cover both descriptive business analysis and controlled experimentation. Recent work has included data-quality validation, relational data, statistical inference, experiment guardrails, dashboarding and translating analytical results into practical recommendations.
 
-The next projects will add more emphasis on relational data modelling, job market analysis, messy data cleaning, statistical analysis and dashboard design.
+I am continuing to build projects that broaden the evidence in my portfolio rather than repeating the same tools and analysis patterns.
