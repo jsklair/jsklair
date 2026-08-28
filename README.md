@@ -28,6 +28,8 @@ The analysis uses lower-quartile house prices and workplace-based earnings to co
 
 ## Current focus
 
-The first two projects now cover both descriptive business analysis and controlled experimentation. Recent work has included data-quality validation, relational data, statistical inference, experiment guardrails, dashboarding and translating analytical results into practical recommendations.
+I am currently building Project 03: Customer Value & Retention Segmentation using real UK online-retail transaction data.
 
-I am continuing to build projects that broaden the evidence in my portfolio rather than repeating the same tools and analysis patterns.
+Source profiling and the classified transaction-cleaning layer are complete. The next stage is to build the SQL/SQLite analytical layer before moving into customer-level measures, segmentation and held-out behavioural validation.
+
+The portfolio is being developed to broaden the evidence across different analytical problems rather than repeat the same tools and techniques.
