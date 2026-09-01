@@ -30,6 +30,6 @@ The analysis uses lower-quartile house prices and workplace-based earnings to co
 
 I am currently building Project 03: Customer Value & Retention Segmentation using real UK online-retail transaction data.
 
-Source profiling and the classified transaction-cleaning layer are complete. The next stage is to build the SQL/SQLite analytical layer before moving into customer-level measures, segmentation and held-out behavioural validation.
+Source profiling, transaction classification and cleaning are complete. The initial SQLite database has also been built and reconciled against the cleaned pandas layer. The next stage is invoice- and customer-level SQL analysis before moving into segmentation and held-out behavioural validation.
 
 The portfolio is being developed to broaden the evidence across different analytical problems rather than repeat the same tools and techniques.
