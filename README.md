@@ -6,6 +6,18 @@ I am building a portfolio around realistic business questions, with an emphasis 
 
 ## Portfolio projects
 
+### Project 03: Customer Value & Retention Segmentation
+
+An end-to-end customer segmentation analysis using real UK online-retail transaction data, built around the decision of which customer groups should receive different retention, growth and reactivation treatment.
+
+The project uses Python and SQL to profile and classify more than one million transaction rows, build a reproducible SQLite analytical layer and create eight commercially interpretable customer segments. Segment definitions are fixed at a historical snapshot and then tested against six months of held-out purchasing behaviour.
+
+High-value active customers represent 16.4% of the eligible customer population but generated 71.7% of positive held-out customer value, while future purchase rates also showed clear differentiation across repeat, recent, cooling, drifting and lapsed customer groups.
+
+**Tools:** SQL, SQLite, Python, pandas, Matplotlib, Git and GitHub
+
+[Repository](https://github.com/jsklair/project_03_customer_value_segmentation) | [Published analysis](https://jsklair.github.io/project_03_customer_value_segmentation/)
+
 ### Project 02: Checkout Conversion Experiment
 
 A synthetic A/B test of a redesigned e-commerce checkout, built around the decision of whether the new experience should be rolled out.
@@ -28,8 +40,6 @@ The analysis uses lower-quartile house prices and workplace-based earnings to co
 
 ## Current focus
 
-I am currently building Project 03: Customer Value & Retention Segmentation using real UK online-retail transaction data.
+With three completed portfolio projects covering business reporting, experimentation and customer analytics, I am now moving on to Project 04.
 
-Source profiling, transaction classification and cleaning are complete. The initial SQLite database has also been built and reconciled against the cleaned pandas layer. The next stage is invoice- and customer-level SQL analysis before moving into segmentation and held-out behavioural validation.
-
-The portfolio is being developed to broaden the evidence across different analytical problems rather than repeat the same tools and techniques.
+The aim is to continue broadening the analytical evidence in the portfolio rather than repeating the same problem types or techniques.
