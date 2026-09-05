@@ -38,8 +38,18 @@ The analysis uses lower-quartile house prices and workplace-based earnings to co
 
 [Repository](https://github.com/jsklair/project_01_uk_house_price_analysis) | [Published analysis](https://jsklair.github.io/project_01_uk_house_price_analysis/)
 
+## Rapid analyses
+
+### Rapid Analysis 01: The Developing 2026 El Niño in Historical Context
+
+A quick-turn analysis using NOAA Relative Oceanic Niño Index (RONI) data to compare the developing 2026 El Niño with previous major events at the same seasonal stage, while keeping observed conditions separate from forecast uncertainty.
+
+**Tools:** Python, pandas, Matplotlib, Git and GitHub
+
+[Repository](https://github.com/jsklair/rapid_analysis_01_2026_el_nino) | [Published analysis](https://jsklair.github.io/rapid_analysis_01_2026_el_nino/)
+
 ## Current focus
 
-With three completed portfolio projects covering business reporting, experimentation and customer analytics, I am now moving on to Project 04.
+With three completed portfolio projects and the first rapid analysis now published, I am moving on to Project 04.
 
-The aim is to continue broadening the analytical evidence in the portfolio rather than repeating the same problem types or techniques.
+The aim is to continue broadening the analytical evidence in the portfolio rather than repeating the same problem types or techniques. Project 04 is also intended to be the first substantial portfolio project where AI-assisted analytical working is described openly, while keeping the underlying analysis reproducible and reviewable.
