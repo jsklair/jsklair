@@ -6,6 +6,20 @@ I am building a portfolio around realistic business questions, with an emphasis 
 
 ## Portfolio projects
 
+### Project 04: Great Britain Day-Ahead Electricity Demand Forecasting
+
+A leakage-aware forecasting case study using National Energy System Operator (NESO) electricity-demand data.
+
+The project tests how accurately Great Britain National Demand can be forecast half-hour by half-hour, one day ahead, while preventing the models from using information that would only have become available later.
+
+On the untouched 2025 test period, the best project model was about **1,576 MW away from actual demand on average**, compared with **2,179 MW** for a simple forecast based on the same half-hour one week earlier. NESO's operational forecast was considerably more accurate at about **679 MW average absolute error**.
+
+The project uses chronological validation, a separate 2026 robustness check and a reproducible BigQuery/dbt/Python pipeline.
+
+**Tools:** SQL, BigQuery, dbt, Python, pandas, scikit-learn, Matplotlib, Git and GitHub
+
+[Repository](https://github.com/jsklair/project_04_gb_electricity_demand_forecasting) | [Published analysis](https://jsklair.github.io/project_04_gb_electricity_demand_forecasting/)
+
 ### Project 03: Customer Value & Retention Segmentation
 
 An end-to-end customer segmentation analysis using real UK online-retail transaction data, built around the decision of which customer groups should receive different retention, growth and reactivation treatment.
@@ -50,6 +64,4 @@ A quick-turn analysis using NOAA Relative Oceanic Niño Index (RONI) data to com
 
 ## Current focus
 
-With three completed portfolio projects and the first rapid analysis now published, I am moving on to Project 04.
-
-The aim is to continue broadening the analytical evidence in the portfolio rather than repeating the same problem types or techniques. Project 04 is also intended to be the first substantial portfolio project where AI-assisted analytical working is described openly, while keeping the underlying analysis reproducible and reviewable.
+With four substantial portfolio projects and the first rapid analysis now published, I am continuing to strengthen the portfolio through differentiated analytical work rather than repeating the same problem types or techniques.
