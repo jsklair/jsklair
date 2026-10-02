@@ -54,6 +54,16 @@ The analysis uses lower-quartile house prices and workplace-based earnings to co
 
 ## Rapid analyses
 
+### Rapid Analysis 02: Outer London ULEZ and Roadside NO₂
+
+A quick-turn comparative time-series analysis of roadside nitrogen dioxide after the August 2023 London-wide ULEZ expansion. It compares two outer-London roadside monitors with three screened non-London comparison sites and examines whether the relative change persisted into the second operational year.
+
+The preferred model shows a larger relative improvement in the outer-London sites after the expansion, particularly in year two, while model-specification sensitivity means the analysis stops short of attributing the whole difference to ULEZ.
+
+**Tools:** Python, pandas, statsmodels, Matplotlib, Git and GitHub
+
+[Repository](https://github.com/jsklair/rapid_analysis_02_london_ulez_no2) | [Published analysis](https://jsklair.github.io/rapid_analysis_02_london_ulez_no2/)
+
 ### Rapid Analysis 01: The Developing 2026 El Niño in Historical Context
 
 A quick-turn analysis using NOAA Relative Oceanic Niño Index (RONI) data to compare the developing 2026 El Niño with previous major events at the same seasonal stage, while keeping observed conditions separate from forecast uncertainty.
@@ -64,4 +74,4 @@ A quick-turn analysis using NOAA Relative Oceanic Niño Index (RONI) data to com
 
 ## Current focus
 
-With four substantial portfolio projects and the first rapid analysis now published, I am continuing to strengthen the portfolio through differentiated analytical work rather than repeating the same problem types or techniques.
+With four substantial portfolio projects and two rapid analyses now published, I am continuing to strengthen the portfolio through differentiated analytical work rather than repeating the same problem types or techniques.
